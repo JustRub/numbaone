@@ -1,0 +1,30 @@
+.header{
+text-align: center;
+z-index: 32;
+}
+
+.left_menu{
+    position: relative;
+    left: 30px;
+    top: 30px;
+    z-index: 0;
+    width: 50%;
+    background-color: aquamarine;
+}
+
+.main{
+z-index: 73;
+
+}
+
+.footer{
+    position: fixed;
+bottom: 0px;
+height: 30px;
+left: 0px;
+right: 0px;
+text-align: center;
+font-size: x-large;
+z-index: 20;
+
+}

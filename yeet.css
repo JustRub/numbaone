@@ -1,0 +1,15 @@
+h2{color:burlywood}
+h1{font-family: serif, arial, sans-serif;}
+.custom{font-size: xx-large;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+.monkmonk{border-style: groove;border-color: blanchedalmond;border-width: 10px;padding: 12px;}
+body{background-color: lightcoral}
+.homeboi{background-image: url(../../pics/hamster.jpg);background-size: cover;}
+a{
+    text-decoration: none;
+    color: brown;
+}
+a:hover{
+text-decoration: wavy;
+color: darkorchid;
+}
